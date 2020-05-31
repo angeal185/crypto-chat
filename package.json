@@ -1,0 +1,23 @@
+{
+  "name": "crypto-chat",
+  "version": "1.0.0",
+  "description": "secure browser to browser chat with end to end encryption utilizing perfect forward security",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angeal185/crypto-chat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angeal185/crypto-chat/issues"
+  },
+  "homepage": "https://github.com/angeal185/crypto-chat#readme",
+  "devDependencies": {
+    "node-static": "^0.7.11"
+  }
+}

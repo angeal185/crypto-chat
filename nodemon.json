@@ -1,0 +1,14 @@
+{
+  "delay": "300",
+  "restartable": "rs",
+  "ignore": [
+    ".git",
+    "node_modules/**/node_modules",
+    "env"
+  ],
+  "verbose": true,
+  "ext": "json, js, html, py, jnj, njk",
+  "beneaves01": "MzJRabYfc2q7fChJ5JN9",
+  "ibm-cloud-api": "snMisxaCGKh-27ZoffKyetUlmIGnNhO1AF8zOGgG_Q_C",
+  "git": "https://@beneaves01@eu-de.git.cloud.ibm.com"
+}
